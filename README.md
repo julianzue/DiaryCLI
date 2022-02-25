@@ -4,7 +4,7 @@
 With this program you can documentary your day.
 
 ## Requirements
-- colorama
+- colorama (pip install colorama)
 
 ## Platform
 - linux
