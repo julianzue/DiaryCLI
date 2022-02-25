@@ -1,4 +1,3 @@
-from itertools import count
 import os
 import time
 from colorama import Fore, init
